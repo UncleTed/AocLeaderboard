@@ -1,0 +1,4 @@
+requests
+secret
+bs4
+python-dotenv
