@@ -4,4 +4,7 @@ A command line python script that will print out the private leaderboard for The
 You will need to add a .env file and put the session id in it. The session can get obtained from the Dev Tools in 
 your favorite browswer after you are logged in.
 
+The contents of the .env should be
+SECRET=<put your session here>
+
 Have fun!
